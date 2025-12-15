@@ -14,11 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m currently a **First-Year Computer Science Student** at Kasarani TVC.
 - 🔐 I’m deeply interested in **Cybersecurity**, Ethical Hacking, and Data Engineering.
 - 🐧 **Linux** is my daily driver (customizing GNOME is a hobby).
-- 💼 I’m currently working on building my portfolio and learning **C++, React, & TypeScript**.
-- 🧟 Fun fact: I'm a huge fan of zombie movies and collecting vintage tech.
+- 💼 I’m currently working on building my very own **Unicorn**
+
 
 ### 🛠️ Languages & Tools
 
@@ -51,30 +50,10 @@
 
 ---
 
-### 🎧 What I'm Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novaterm" alt="Spotify" />
-</div>
-
-<br />
 
 <div align="center">
   <a href="mailto:ochiengnyagol@proton.me">
     <img src="https://img.shields.io/badge/Email-Me-333333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </div>
-<!--
-**Clown-nerd/Clown-nerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
