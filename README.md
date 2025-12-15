@@ -14,10 +14,11 @@
 
 ### 👨‍💻 About Me
 
-
+- 🎓 I’m currently a **First-Year Computer Science Student** at Kasarani TVC.
 - 🔐 I’m deeply interested in **Cybersecurity**, Ethical Hacking, and Data Engineering.
 - 🐧 **Linux** is my daily driver (customizing GNOME is a hobby).
-
+- 💼 I’m currently working on building my portfolio and learning **C++, React, & TypeScript**.
+- 🧟 Fun fact: I'm a huge fan of zombie movies and collecting vintage tech.
 
 ### 🛠️ Languages & Tools
 
@@ -63,7 +64,6 @@
     <img src="https://img.shields.io/badge/Email-Me-333333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
 <!--
 **Clown-nerd/Clown-nerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
