@@ -6,7 +6,7 @@
 
   **CS Student | Cybersecurity Enthusiast | Linux User**
   
-  *Turning coffee into code and security protocols.*
+  *Turning coffee into code and security protocols.* 
   
 </div>
 
