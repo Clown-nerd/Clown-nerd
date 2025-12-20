@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🔐 I’m deeply interested in **Cybersecurity**, Ethical Hacking, and Data Engineering.
-- 🐧 **Linux** is my daily driver (customizing GNOME is a hobby).
+- 🐧 **Linux** is my daily driver (compiling **Kernel** is a hobby).
 - 💼 I’m currently working on building my very own **Unicorn**
 
 
